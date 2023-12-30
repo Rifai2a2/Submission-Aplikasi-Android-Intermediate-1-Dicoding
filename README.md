@@ -1,6 +1,6 @@
 ## StoryApp
 
-This is submission 1 (initial) of Learning Intermediate Android App Development at Dicoding
+This is submission 1 (Beginning) of Learning Intermediate Android App Development at Dicoding
   
   This application is made in order to graduate from the Course or class Learning Intermediate Android Apps Development at [Dicoding](https://www.dicoding.com/)  dan [Bangkit Academy 2023.](https://www.google.com](https://grow.google/intl/id_id/bangkit/?tab=machine-learning)https://grow.google/intl/id_id/bangkit/?tab=machine-learning)
   
